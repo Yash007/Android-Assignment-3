@@ -1,0 +1,15 @@
+<resources>
+    <!-- Application Name here. Display with ICONS -->
+    <string name="app_name">Task 2</string>
+
+    <!--Title and button for second activity-->
+    <string name='title'>Values from string file</string>
+    <string name="buttonName">SEND</string>
+
+    <!--default values will be displayed by java code-->
+    <string name='fullNameValue'>Yashkumar Sompura</string>
+    <string name='qualificationValue'>Computer Engineer</string>
+    <string name='professionValue'>Web Applicaiton Developer</string>
+    <string name='hobbyValue'>Coding</string>
+    <string name='dreamJobValue'>At Apple</string>
+</resources>
